@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saksham Bedi
-- 📫 How to reach me bedisaksham@icloud.com
+- 📫 How to reach me me@sakshambedi.com
 
 <!---
 sakshambedi/sakshambedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
